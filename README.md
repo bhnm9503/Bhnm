@@ -1,4 +1,4 @@
-# Bhnm
+
 # Logs
 logs
 *.log
