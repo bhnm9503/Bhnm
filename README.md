@@ -1,9 +1,10 @@
 
+
 # Logs
 logs
 *.log
 npm-debug.log*
-lerna-debug.log*
+lerna-debug*
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
