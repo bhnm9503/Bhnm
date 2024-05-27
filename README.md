@@ -6,8 +6,7 @@ logs
 npm-debug.log*
 lerna-debug*
 
-# Diagnostic reports (https://nodejs.org/api/report.html)
-report.[0-9]*.[0-9]*.[0-9]*.json
+# Diagnostic reports (https://nodejs.org/api/report.htm
 
 # Runtime data
 pids
